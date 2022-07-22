@@ -1,0 +1,2 @@
+# shytechy
+A magazine website
